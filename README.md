@@ -34,4 +34,7 @@ CARTS
 --localhost:8080/api/carts/3/product/2
 ![del_carts](https://github.com/user-attachments/assets/fc5f109e-359a-4f38-82cc-03fb32ec2fc9)
 
+-POST (RealTimeProducts)
+--localhost:8080/api/products
+![post_product list](https://github.com/user-attachments/assets/09a78094-facf-4b89-a26f-dca07a2cb2fa)
 
