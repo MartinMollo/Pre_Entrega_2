@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Totte Bag",
+    "description": "Totte Bag",
+    "code": "TB-1",
+    "price": 1000,
+    "status": true,
+    "stock": 200,
+    "category": "accessories",
+    "thumbnails": ""
+  },
+  {
+    "id": 2,
+    "title": "riñonera",
+    "description": "riñonera",
+    "code": "RA-1",
+    "price": 500,
+    "status": true,
+    "stock": 197,
+    "category": "accessories",
+    "thumbnails": ""
+  },
+  {
+    "id": 3,
+    "title": "Matera",
+    "description": "Matera",
+    "code": "MT-1",
+    "price": 700,
+    "status": true,
+    "stock": 194,
+    "category": "accessories",
+    "thumbnails": ""
+  },
+  {
+    "id": 4,
+    "title": "Clutch",
+    "description": "Clutch",
+    "code": "CL-1",
+    "price": 400,
+    "status": true,
+    "stock": 200,
+    "category": "accessories",
+    "thumbnails": ""
+  },
+  {
+    "id": 5,
+    "title": "neceser",
+    "description": "neceser",
+    "code": "NC-1",
+    "price": 600,
+    "status": true,
+    "stock": 200,
+    "category": "accessories",
+    "thumbnails": ""
+  },
+  {
+    "id": 6,
+    "title": "cartera sobre",
+    "description": "cartera sobre",
+    "code": "CS-1",
+    "price": 300,
+    "status": true,
+    "stock": 200,
+    "category": "accessories",
+    "thumbnails": ""
+  },
+  {
+    "id": 7,
+    "title": "cartera",
+    "description": "cartera",
+    "code": "CT-1",
+    "price": 700,
+    "status": true,
+    "stock": 300,
+    "category": "accessories",
+    "thumbnails": ""
+  }
+]
